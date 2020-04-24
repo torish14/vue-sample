@@ -1,4 +1,4 @@
-# vue-sample
+# Vue.js のサンプルプロジェクトです。
 
 ## Project setup
 ```
